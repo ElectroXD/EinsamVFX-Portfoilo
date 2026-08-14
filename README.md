@@ -1,12 +1,6 @@
 # EinsamVFX-Portfoilo
 A portfolio website made for Einsam, showcasing his video editing work, experience, achievements, and creative journey
 
-# Einsam — Creative Video Editor Portfolio
-
-> A cinematic, interactive portfolio website made for **Einsam**, a professional video editor and content creator.
-
----
-
 ## Overview
 
 This repository contains the official portfolio website created for **Einsam**, a professional video editor who specializes in editing videos and creating content that keeps viewers engaged.
